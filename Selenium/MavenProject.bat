@@ -1,0 +1,1 @@
+call mvn test -f C:\Users\Ehtesham\TestNGFramework\MavenProject\pom.xml
