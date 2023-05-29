@@ -1,0 +1,22 @@
+Plan,Payee Name,Address line 1,Address line 2,Address line 3,City,Province,Postal Code,Country,Cheque number,Date,Payment Description 1,locked-in/non-locked in 1,Jurisdiction 1,Payment Amount 1,Payment Description 2,locked-in/non-locked in 2,Jurisdiction 2,Payment Amount 2,Payment Description 3,locked-in/non-locked in 3,Jurisdiction 3,Payment Amount 3,Payment Description 4,locked-in/non-locked in 4,Jurisdiction 4,Payment Amount 4,Payment Description 5,locked-in/non-locked in 5,Jurisdiction 5,Payment Amount 5,Gross Payment,Deduction Description 1,Deduction Amount 1,Deduction Description 2,Deduction Amount 2,Deduction Description 3,Deduction Amount 3,Deduction Description 4,Deduction Amount 4,Deduction Description 5,Deduction Amount 5,Total Deductions,Net Payment
+PEPP,GLENN C PETERSON,BOX 145,,,RADISSON,SK,S0K 3L0, ,56749,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,842,,,,,,,,,,,,,,,,,842,,,,,,,,,,,0,842
+PEPP,MARJORIE H BERTRAND,307 RODENBUSH DRIVE,,,REGINA,SK,S4R 6X3, ,56750,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,2856.73,,,,,,,,,,,,,,,,,2856.73,,,,,,,,,,,0,2856.73
+PEPP,DOREEN B BUETTNER,11971 STEEPLE CHASE CIRCLE,,,ANCHORAGE,AK,995162321,UNITED STATES,56751,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,125,,,,,,,,,,,,,,,,,125,Income Tax,18.75,,,,,,,,,18.75,106.25
+PEPP,JOHN HENRY BUETTNER,11971 STEEPLE CHASE CIRCLE,,,ANCHORAGE,AK,995162321,UNITED STATES,56752,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,2320,,,,,,,,,,,,,,,,,2320,Income Tax,348,,,,,,,,,348,1972
+PEPP,JOHN R BURNS,1000 - 1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56753,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,1845.57,,,,,,,,,,,,,,,,,1845.57,,,,,,,,,,,0,1845.57
+PEPP,LINDEN DAVIS,1000 - 1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56754,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,541.24,,,,,,,,,,,,,,,,,541.24,,,,,,,,,,,0,541.24
+PEPP,ROY G GOSSELIN,1000 - 1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56755,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,342.5,,,,,,,,,,,,,,,,,342.5,,,,,,,,,,,0,342.5
+PEPP,RAJ SHAH,"1000, 1801 HAMILTON STREET",,,REGINA,SK,S4P 4W3, ,56756,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,803.81,,,,,,,,,,,,,,,,,803.81,,,,,,,,,,,0,803.81
+PEPP,JAMES J TURANSKI,10 PECKHAM AVE,,,NEWPORT,RI,2840,UNITED STATES,56757,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,8746.69,,,,,,,,,,,,,,,,,8746.69,Income Tax,1312,,,,,,,,,1312,7434.69
+PEPP,JEAN R SCHICK,PO BOX 324,,,LEMBERG,SK,S0A 2B0, ,56758,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,1720.2,,,,,,,,,,,,,,,,,1720.2,,,,,,,,,,,0,1720.2
+PEPP,MARG R SHANKS,1000 1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56759,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,3341.09,,,,,,,,,,,,,,,,,3341.09,,,,,,,,,,,0,3341.09
+PEPP,LYDIA M SLYKHUIS,1000-1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56760,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,3520.96,,,,,,,,,,,,,,,,,3520.96,,,,,,,,,,,0,3520.96
+PEPP,CINDY L MCKIEL,5208 - 122 AVENUE,,,EDMONTON,AB,T5W 1R8, ,56761,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,500,,,,,,,,,,,,,,,,,500,,,,,,,,,,,0,500
+PEPP,BIBI BINYAMIN,89 STILECROFT DRIVE,,,NORTH YORK,ON,M3J 1A8, ,56762,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,300,,,,,,,,,,,,,,,,,300,,,,,,,,,,,0,300
+PEPP,CAROL THOMPSON,28 RANCHERO RISE NW,,,CALGARY,AB,T3G 1E2, ,56763,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,16994.18,,,,,,,,,,,,,,,,,16994.18,Income Tax,5189.43,,,,,,,,,5189.43,11804.75
+PEPP,PETER F SICOLI,1000-1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56764,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,9666.27,,,,,,,,,,,,,,,,,9666.27,,,,,,,,,,,0,9666.27
+PEPP,ROBBIE SCOTT,BOX 38,,,CYMRIC,SK,S0G 0Z0, ,56765,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,1150,,,,,,,,,,,,,,,,,1150,,,,,,,,,,,0,1150
+PEPP,CLIFFORD J RUTTEN,BOX 196,,,PADDOCKWOOD,SK,S0J 1Z0, ,56766,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,8657.91,,,,,,,,,,,,,,,,,8657.91,,,,,,,,,,,0,8657.91
+PEPP,MARY A KUTER LUKS,1000 - 1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56767,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,1138.03,,,,,,,,,,,,,,,,,1138.03,,,,,,,,,,,0,1138.03
+PEPP,PHILLIP TROFIN,BOX 2464,,,BATTLEFORD,SK,S0M 0E0, ,56768,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,5000,,,,,,,,,,,,,,,,,5000,Income Tax,1016.62,,,,,,,,,1016.62,3983.38
+PEPP,MICHAEL E GIBSON,1000-1801 HAMILTON ST,,,REGINA,SK,S4P 4W3, ,56769,13-Dec-22,Life Pension,Non-locked in,Saskatchewan,1846.7,,,,,,,,,,,,,,,,,1846.7,,,,,,,,,,,0,1846.7

@@ -1,0 +1,4 @@
+Header,Batch Number,Transaction Count,Employer Code,Pay Date,,,,,,,
+H,101222,1,7922,14092022,,,,,,,
+Detail,SIN,Last Name,First Name,,Pay Period Start Date,Pay Period End Date,Transaction Type,Employee Contribution,Employer Contribution,Voluntary Contribution,Total Contribution
+D,646867218,ZSOMBOR,TRACY,L,16112022,30112022,N,100,100,10,210

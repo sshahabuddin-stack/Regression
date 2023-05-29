@@ -1,0 +1,4 @@
+Header,Batch Number,Transaction Count,Employer Code,Pay Date,,,,,,,
+H,101222,1,0040,10122022,,,,,,,
+Detail,EEID,Last Name,First Name,,Pay Period Start Date,Pay Period End Date,Transaction Type,Employee Contribution,Employer Contribution,Voluntary Contribution,Total Contribution
+D,0040071098,ZUROWSKI,Megan,,25112022,10122022,N,100,100,0,200
