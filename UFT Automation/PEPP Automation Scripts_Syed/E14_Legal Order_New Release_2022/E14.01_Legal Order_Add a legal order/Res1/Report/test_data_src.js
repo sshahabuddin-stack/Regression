@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\ssyed\\Desktop\\UFT Automation Folder\\PEPP Automation Scripts_Syed\\E14_Legal Order_New Release_2022\\E14.01_Legal Order_Add a legal order\\Res1',namePairs:[]}]};
